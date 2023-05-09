@@ -1,8 +1,8 @@
 # Clonacion de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Tecnolochicas Pro ⭐
 ## ÍNDICE
-* [🌟1. Intro](#)
-* [🌟2. Qué construír 🛠](#)
-* [🌟3. Objetivo del proyecto](#)
+* [🌟1. Intro](https://github.com/YurikoFajardo/ClondeGoogle#1intro)
+* [🌟2. Qué construír 🛠](https://github.com/YurikoFajardo/ClondeGoogle#2qu%C3%A9-construir)
+* [🌟3. Objetivo del proyecto](https://github.com/YurikoFajardo/ClondeGoogle#3objetivo-del-proyecto)
 
 ****
 ## 1.Intro 
